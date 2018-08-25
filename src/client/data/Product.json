@@ -1,0 +1,42 @@
+ [
+    { "imgURL":"https://assets.staples-static.com/sbd/cre/products/170903/63350/images/6335063350_office_supplies_232x140.jpg",
+      "Title": "Office Supplies",
+      "Services": "Writing Supplies  Calendars & Planners Office Basics"
+      },
+  { "imgURL":"https://assets.staples-static.com/sbd/cre/products/170903/63350/images/6335063350_paper_232x140.jpg",
+      "Title": "Paper & Stationery",
+      "Services": "Copy Paper, Noteooks, Notepads "
+      },
+      { "imgURL":"https://assets.staples-static.com/sbd/cre/products/180325/66077/images/66077_banner1_232x140.jpg",
+      "Title": "Print Services",
+      "Services": "Banners and Posters, Business card, Document Printing"
+      },
+      { "imgURL":"https://assets.staples-static.com/sbd/cre/products/170903/63350/images/6335063350_laptop_232x140.jpg",
+      "Title": "Computers",
+      "Services": "Laptops, Desktops, Computer Accessoreis"
+      },
+      { "imgURL":"https://assets.staples-static.com/sbd/cre/products/170903/63350/images/6335063350_food_232x140.jpg",
+      "Title": "Food & Brakroom",
+      "Services": "Candy, Gum & Mints, Chips, Crackers & Pretzels, Water Soda & Juice"
+      },
+      { "imgURL":"https://assets.staples-static.com/sbd/cre/products/170903/63350/images/6335063350_chairs_232x140.jpg",
+      "Title": "Chairs & Seating",
+      "Services": "Office Chairs, Chair Mats, Stacking & Folding Chairs"
+      },
+      { "imgURL":"https://assets.staples-static.com/sbd/cre/products/170903/63350/images/6335063350_cleaning_232x140.jpg",
+      "Title": "Cleaning & Facilities",
+      "Services": "Paper Products, Cleaning chemicals & wipes, waste & Recycling"
+      },
+      { "imgURL":"https://assets.staples-static.com/sbd/cre/products/170903/63350/images/6335063350_furniture_232x140.jpg",
+      "Title": "Furniture",
+      "Services": "chairs & Seating, Desks, Tables"
+      },
+      { "imgURL":"https://assets.staples-static.com/sbd/cre/products/170903/63350/images/6335063350_printer_232x140.jpg",
+      "Title": "Printers",
+      "Services": "All-in-One Printer, Inkjet Printers, Laser Printers"
+      },
+      { "imgURL":"https://assets.staples-static.com/sbd/cre/products/170903/63350/images/6335063350_mail_232x140.jpg",
+      "Title": "Shipping & Packing",
+      "Services": "Shipping & Packing, Mailling Supplies,Moving Supplies"
+      }
+  ]
